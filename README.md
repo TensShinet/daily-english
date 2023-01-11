@@ -52,3 +52,29 @@
 + Beach Volleyball
 + A pair of scissors
 + A pair of playing cards
+
+
+
+#### 11
+
+
+
++ Freezer
++ Envy
++ Equator
++ Autumn
++ The path is covered with fallen leaves.
++ Beanie
++ Leaves are turning yellow.
++ An elderly couple
++ Various
++ Weather Forecast
++ Stand in the snow
++ Tan/Tanning
++ Scarf/Scarves
++ Sweater
++ Denim Jacket
++ Pockets
++ Valuable(noun)
++ Libido
++ Pupil
