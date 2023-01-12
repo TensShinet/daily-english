@@ -78,3 +78,76 @@
 + Valuable(noun)
 + Libido
 + Pupil
+
+
+
+### 12
+
+
+
++ The air is fresh.
+
++ Too hot/Too cold (Too much hot or Too much cold is wrong)
+
++ Chilly
+
++ Front pocket
+
++ Back pocket
+
++ Snack (mispronunciation)
+
++ Snake
+
++ Biscuit
+
++ Appetite
+
++ Shelter
+
++ Candy vs. Sugar
+
++ Graze
+
++ Quilt
+
++ Soft fur
+
++ Rain boots
+
++ Standing water
+
++ Business English
+
++ Pleasure
+
++ Give thumb up
+
++ Raspberry
+
++ Pumpkin
+
++ Water Spinach
+
++ Spinach
+
++ Broccoli
+
++ Green Pepper
+
++ Juice
+
++ Red wine
+
++ Beard vs. Bread
+
++ Pillow
+
++ Mattress
+
++ Pillow Case
+
+  
+
+
+
