@@ -151,3 +151,32 @@
 
 
 
+#### 13
+
+
+
++ Parrot
++ Minus 10 Degrees Celsius
++ Breed
++ Smelly
++ Get Vaccination
++ We should be vaccinated against COVID-19.
++ Dinosaur
++ Lay on the floor
++ Documentary
++ I lie on the floor, but I lay on it last night.
++ Today the hen may lay an egg, but yesterday she laid no eggs.
++ Lie/Lay/Lying
++ Lay/Laid
++ Colleague
++ College
++ Law(Low, mispronunciation)
++ Turtle
++ Crime
++ Commit a crime
++ Thoroughly: No man ever became *thoroughly* bad all at once.
++ Thorough: The doctor gave him a thorough check-up.
++ Glass
++ Celery
++ Cooked
++ Civilize
