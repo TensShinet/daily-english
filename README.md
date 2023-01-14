@@ -147,8 +147,6 @@
 
 + Pillow Case
 
-  
-
 
 
 #### 13
@@ -174,9 +172,70 @@
 + Turtle
 + Crime
 + Commit a crime
-+ Thoroughly: No man ever became *thoroughly* bad all at once.
++ Thoroughly: No man ever became thoroughly bad all at once.
 + Thorough: The doctor gave him a thorough check-up.
 + Glass
 + Celery
 + Cooked
 + Civilize
+
+
+
+#### 14
+
+
+
++ Airline
++ Depart: Our flight departs at 6:15 a.m.
++ Departure: Departure board
++ Arrival area
++ Check-in: I have to check in 2 hours before my flight.
++ Check-in desk
++ Here you are
++ Driver License
++ Stamp
++ Hand: Could you hand me your passport?
++ Hand vs. Give(I Give you something, which means you don't need to return it back)
++ Boarding pass
++ Plane ticket
++ Aisle seat
++ Window seat
++ Squashed: I feel squashed when I sit in the middle of people.
++ Board: Board the plane/ship/train
++ Boarding Time/Departure Time
++ Priority Boarding
++ Gate
++ Luggage/Baggage(uncountable): a little baggage
++ Suitcase(countable): three suitcases
++ Carton
++ Carry-on Bag
++ Business class
++ Economy class
++ Baggage fee
++ I fly economy.
++ I have never flown business.
++ Clap: I will clap for you.
++ Clapping: a device that makes a clapping noise.
++ Barf bag
++ Sanitary Bag: It's not the most sanitary place one could swim.
++ How many bags can I check?
++ Fragile: a fragile sticker
++ On the scale for measurement
++ Pay on a credit card.
++ Pay with crash
++ Pass the security check
++ Here we go
++ Semester
++ Lots of scenery
++ What was the first flight you **ever took**?
++ Itchy: It's very Itchy.
++ Itch: It causes an itch.
++ Rash:  I have a rash here.
++ Quite dry
++ Bird's eye view: You can enjoy the bird's eye view from the window when you sit in the window seat.
++ Wildfire
++ Bathroom
++ Tibet
++ Altitude Sickness
++ Unpolite
++ Honorific
