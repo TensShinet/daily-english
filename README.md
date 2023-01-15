@@ -239,3 +239,91 @@
 + Altitude Sickness
 + Unpolite
 + Honorific
+
+
+
+#### 15
+
+
+
++ Europe
+
++ Direct flight
+
++ Transfer: My destination is Beijing, but I have to transfer in Shanghai first.
+
++ Transfer: There are transfer stations where you can transfer line 2 to line 4.
+
++ Transmit: Covid is very easy to transmit to someone else.
+
++ Layover: I have a 5-hour layover in Beijing.
+
++ You can rewatch the live stream later.
+
++ My flight was delayed, so I missed my connection in Beijing.
+
++ Hijack/Hijacker
+
++ Electronics(noun.): With all your electronics removed, it's easier for them to read X-rays at security.
+
++ Sore Throat
+
++ Duty-free/Tax-free: We can shop at the duty-free shops after security.
+
++ Duty-free: Duty-free is a good place to buy gifts for relatives.
+
++ Airport shuttle
+
++ Baggage Claim(the place you can pick up your bags)
+
++ Carousel
+
++ Security Agent
+
++ Airline Agent
+
++ Metro/Subway
+
++ How long is the line for security?
+
++ Line up
+
++ Down/Up the stairs
+
++ Driver you home
+
++ Congee/Rice porridge
+
++ Power bank: You can charge your phone with the power bank.
+
++ My phone is out of battery
+
++ A bowl of congee
+
++ Jewelry
+
++ Change(noun)
+
++ Tray
+
++ Tablet
+
++ Paper money
+
++ Metal
+
++ Pacemaker
+
++ Wave you through
+
++ Toothpaste
+
++ Madam/Ma'am
+
++ Causal
+
++ Swiss Army Knife
+
++ 
+
+  
