@@ -247,83 +247,85 @@
 
 
 + Europe
-
 + Direct flight
-
 + Transfer: My destination is Beijing, but I have to transfer in Shanghai first.
-
 + Transfer: There are transfer stations where you can transfer line 2 to line 4.
-
 + Transmit: Covid is very easy to transmit to someone else.
-
 + Layover: I have a 5-hour layover in Beijing.
-
 + You can rewatch the live stream later.
-
 + My flight was delayed, so I missed my connection in Beijing.
-
 + Hijack/Hijacker
-
 + Electronics(noun.): With all your electronics removed, it's easier for them to read X-rays at security.
-
 + Sore Throat
-
 + Duty-free/Tax-free: We can shop at the duty-free shops after security.
-
 + Duty-free: Duty-free is a good place to buy gifts for relatives.
-
 + Airport shuttle
-
 + Baggage Claim(the place you can pick up your bags)
-
 + Carousel
-
 + Security Agent
-
 + Airline Agent
-
 + Metro/Subway
-
 + How long is the line for security?
-
 + Line up
-
 + Down/Up the stairs
-
 + Driver you home
-
 + Congee/Rice porridge
-
 + Power bank: You can charge your phone with the power bank.
-
 + My phone is out of battery
-
 + A bowl of congee
-
 + Jewelry
-
 + Change(noun)
-
 + Tray
-
 + Tablet
-
 + Paper money
-
 + Metal
-
 + Pacemaker
-
 + Wave you through
-
 + Toothpaste
-
 + Madam/Ma'am
-
 + Causal
-
 + Swiss Army Knife
 
-+ 
 
-  
+
+#### 16
+
+
+
++ Custom
++ Immigration
++ Stinky
++ Cross the border
++ How can I get exit** C?
++ Legally/Illegally
++ Declaration card/form
++ Arrival card/form
++ Pay a fine
++ Country of residence
++ Where are you from(original country)?
++ Currency
++ Resident/Visitor: Residents **line up** on the left, and visitors line up on the right.
++  Nationality
++ Dual citizenship: I am a citizen of China. I have Chinese citizenship.
++ Firearm/Weapon: It's generally a good idea not to travel with firearms or weapons.
++ Duration of stay: What will be your duration of **stay** in Canada?
++ Border Agent
++ Kiosk/Booth
++ Flammable
++ Golden retriever
++ Year-end awards
++ Lantern
++ Poop
++ Mouse/Mouth
++ Iguana
++ Frisky: The morning air makes me feel more frisky.
++ Frisbee
++ Inexperienced
++ I am going to **turn** 24 this year.
+
++ Kitten(mispronunciation)
++ Young girls **are appealing to** me.
++ Trick: What tricks can I teach my dog?
++ In common: My friend and I have a lot in common such as playing LOL.
++ Character vs. Characteristic
+
