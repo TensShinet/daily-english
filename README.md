@@ -296,7 +296,7 @@
 + Immigration
 + Stinky
 + Cross the border
-+ How can I get exit** C?
++ How can I get **exit** C?
 + Legally/Illegally
 + Declaration card/form
 + Arrival card/form
@@ -329,3 +329,19 @@
 + In common: My friend and I have a lot in common such as playing LOL.
 + Character vs. Characteristic
 
+
+
+#### 17
+
+
+
++ I am a total **klutz** when it comes to choosing **outfits**.
++ Cope with
++ The life of  most people
++ The lives of most people
++ Marker pen
++ Remember more firmly
++ Toy mashroom
++ It's very windy outside.
++ I am a total **klutz** when it comes to choosing outfits.
++ Cope with: we are inexperienced when we cope with this situation.
