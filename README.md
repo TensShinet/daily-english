@@ -345,3 +345,26 @@
 + It's very windy outside.
 + I am a total **klutz** when it comes to choosing outfits.
 + Cope with: we are inexperienced when we cope with this situation.
+
+
+
+#### 18
+
+
+
++ Repeat/Repeated/Repeatedly
++ Newbie
++ Village(mispronunciation)
++ Respectively
++ Repetitively
++ Heart(mispronunciation)
++ A good-structured sentence
++ Brand new
++ Ski/Skiing
++ Pedestrains
++ Motorcycle
++ Young ladies
++ Eiffel Tower
++ Desert(mispronunciation)
++ Cuisine(uncountable)
++ Bullet Train
