@@ -368,3 +368,18 @@
 + Desert(mispronunciation)
 + Cuisine(uncountable)
 + Bullet Train
+
+
+
+#### 19
+
+
+
++ Three days of annual leave
++ Connecting flight
++ Budget Airline
++ Bulb: This is a yellow light bulb.
++ Chef
++ Wheat
++ Flour: There is a lot of flour here.
++ Landlord
