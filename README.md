@@ -341,7 +341,7 @@
 + The lives of most people
 + Marker pen
 + Remember more firmly
-+ Toy mashroom
++ Toy mushroom
 + It's very windy outside.
 + I am a total **klutz** when it comes to choosing outfits.
 + Cope with: we are inexperienced when we cope with this situation.
@@ -361,7 +361,7 @@
 + A good-structured sentence
 + Brand new
 + Ski/Skiing
-+ Pedestrains
++ Pedestrians
 + Motorcycle
 + Young ladies
 + Eiffel Tower
@@ -383,3 +383,25 @@
 + Wheat
 + Flour: There is a lot of flour here.
 + Landlord
+
+
+
+#### 22
+
+
+
++ Cliff
++ Saliva
++ Tongue
++ Iron
++ Bronze
++ Silver
++ Gold
++ Platinum
++ Diamond
++ Master
++ Grand Master
++ Challenger
+
+
+
