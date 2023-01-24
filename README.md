@@ -405,3 +405,35 @@
 
 
 
+#### 23
+
+
+
++ Cum
++ Incubator
++ Nipple
++ Poser
++ Meditate
++ Package the ideas
++ Greatness
++ Shithole
++ Baller
++ Drop out of college
++ Cradle
++ Innovation
++ Dropout
++ The true value of a college education is **intangible**.
++ Vague: She has been **vague** about her plans for college.
++ Go into the woods
++ Berry
++ Fasten the seatbelt in my car.
++ Billionaire
++ That doesn't sound at all **downgraded**.
++ No way.
++ Cross
++ Retail Price vs. Unit Price
++ Humanity
++ Virgin
++ Boner
++ Sweat: The runners were dripping with **sweat**.
++ Sesame seed
