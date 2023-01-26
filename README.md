@@ -258,20 +258,20 @@
 + Electronics(noun.): With all your electronics removed, it's easier for them to read X-rays at security.
 + Sore Throat
 + Duty-free/Tax-free: We can shop at the duty-free shops after security.
-+ Duty-free: Duty-free is a good place to buy gifts for relatives.
++ Duty-free: Duty-free is an excellent place to buy gifts for relatives.
 + Airport shuttle
 + Baggage Claim(the place you can pick up your bags)
 + Carousel
 + Security Agent
 + Airline Agent
 + Metro/Subway
-+ How long is the line for security?
++ How long is the security line?
 + Line up
 + Down/Up the stairs
 + Driver you home
 + Congee/Rice porridge
 + Power bank: You can charge your phone with the power bank.
-+ My phone is out of battery
++ My phone is out of battery.
 + A bowl of congee
 + Jewelry
 + Change(noun)
@@ -298,7 +298,7 @@
 + Cross the border
 + How can I get **exit** C?
 + Legally/Illegally
-+ Declaration card/form
++ Declaration(mispronunciation) card/form
 + Arrival card/form
 + Pay a fine
 + Country of residence
@@ -422,8 +422,8 @@
 + Cradle
 + Innovation
 + Dropout
-+ The true value of a college education is **intangible**.
-+ Vague: She has been **vague** about her plans for college.
++ The actual value of a college education is **intangible**.
++ Vague: She has been **vague** about her college plans.
 + Go into the woods
 + Berry
 + Fasten the seatbelt in my car.
@@ -437,3 +437,76 @@
 + Boner
 + Sweat: The runners were dripping with **sweat**.
 + Sesame seed
+
+
+
+#### 25
+
+
+
++ Open/Close your eyes.
++ Blink
++ Moist
++ Stare
++ Cover your eyes
++ Wink
++ Nod
++ Shake your head
++ Pick your nose
++ Blow your nose
++ Sneeze
++ Sniff
++ Wiggle
++ Whistle
++ Whisper
++ Hum
++ Chew
++ Cough
++ Elbow
++ Lick
++ Plug/Cover/Pull/Cup your ear
++ **Pinck**
++ Poke
++ Punch
++ Slap
++ Yank
++ Tug
++ Snap your finger
++ Flick
++ Make a terrible gesture.
++ **Bump** elbows
++ Tickle: Her little brother screamed with laughter as she tickled him.
++ Rub: He kept rubbing his leg against mine.
++ Pet
++ Shrug: He simply shrugs and shakes his head.
++ Trip: She tripped and fell.
++ Slip: She slipped downstairs.
++ Squeeze
++ Hop
++ Squat
++ Tiptoe
++ Skip
+
+
+
+#### 26
+
+
+
++ Direct(mispronunciation)
+
++ Tobacco/Cigarette
++ Cigar
++ Parasite
++ Germ
++ Continent
++ Family Name/Given Name
++ Tangled: Headphone cables are tangled.
++ Swear: I swear to God.
++ Aspirin
++ Ibuprofen
++ Penalty
++ Jail: They were given a jail sentence.
++ Knief(mispronunciation)
++ Confiscate: Guards confiscated knives and other weapons from the prisoners.
++ Lighter
