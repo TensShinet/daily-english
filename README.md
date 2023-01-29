@@ -510,3 +510,19 @@
 + Knief(mispronunciation)
 + Confiscate: Guards confiscated knives and other weapons from the prisoners.
 + Lighter
+
+
+
+#### 29
+
+
+
++ Recruiter
++ Advocate: The company is a strong advocate for wind power.
++ Category: All members that belong to the same category are sitting together.
++ Tech hiring freezes.
++ Extent: She tried to determine the extent of the damage.
++ Reach out
++ Blow someone's mind
++ Monetize: I can monetize on my YouTube channel.
++ Sponsorship: Obviously, they've had sponsorship from some big compies.
