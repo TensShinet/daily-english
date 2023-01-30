@@ -526,3 +526,49 @@
 + Blow someone's mind
 + Monetize: I can monetize on my YouTube channel.
 + Sponsorship: Obviously, they've had sponsorship from some big compies.
+
+
+
+#### 31
+
+
+
++ Pick up: Can the taxi pick me up in front of the library?
++ Pick-up artist
++ Pick up a girl
++ Drop off: Can you just drop me off at the corner?
++ Pull over: Can you pull over ahead?
++ Parking lot: I parked the car in parking lot A.
++ Park spot
++ Basement parking
++ Make a U-turn
++ Traffic lights/Lights
++ Intersection
++ Three-way intersection
++ T intersection
++ Crossroad
++ Traffic circle/Roundabout
++ Fare: How much is the fare?
++ Hail a taxi/Get a taxi/Catch a taxi
++ Receipt(mispronunciation)
++ Hitchhike/Thumb a ride.
++ Back seat
++ Meter: Is the meter running?/Can you run the meter?
++ Shotgun
++ Passenger seat
++ Trunk: Can I put my bags in the trunk?
++ Elephant Trunk
++ Tree Trunk
++ Pop open the trunk.
++ Hood: Pop open the hood.
++ Pop off the hood.
++ Champagne
++ Shampoo
++ Conditioner
++ Cork: The cork will pop off.
++ Can you take me to the Bukit Batok?
++ How much do I owe you?
++ Credit card/Debit card
++ Navigation
++ Rookie
++ Make a detour
