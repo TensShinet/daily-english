@@ -628,3 +628,27 @@
 + Brooch
 + Badge
 + Model Plane
+
+
+
+### 2
+
+
+
+#### 1
+
+
+
++ Neighbor vs. Neighborhood
++ They bought a house in a beautiful neighborhood.
++ Courtyard
++ She Clinks her glass against his.
++ Evolve: Her company has evolved from a hobby into a big business.
++ Concert
++ Street view
++ Japanese character
++ In terms of: The book is organized well in terms of plot.
++ Poetry
+
+
+
