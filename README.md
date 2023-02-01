@@ -529,7 +529,7 @@
 
 
 
-#### 31
+#### 30
 
 
 
@@ -549,7 +549,7 @@
 + Crossroad
 + Traffic circle/Roundabout
 + Fare: How much is the fare?
-+ Hail a taxi/Get a taxi/Catch a taxi
++ Hail a taxi/Get a taxi/Catch a taxi.
 + Receipt(mispronunciation)
 + Hitchhike/Thumb a ride.
 + Back seat
@@ -566,9 +566,65 @@
 + Shampoo
 + Conditioner
 + Cork: The cork will pop off.
-+ Can you take me to the Bukit Batok?
++ Can you take me to Bukit Batok?
 + How much do I owe you?
 + Credit card/Debit card
 + Navigation
 + Rookie
 + Make a detour
+
+
+
+#### 31
+
+
+
++ Fitroom vs. Fitting room
++ Go to the fitting room over there.
++ Where can I try this on?
++ Can I try it on?
++ Size: extra small, small, medium, large, extra large
++ Oversize: an oversized T-shirt.
++ Do you have this kind of style?
++ Waist
++ Skinny jeans/High waist jeans/Low rise jeans/Mid rise jeans/Baggy jeans
++ Paper bag/Plastic bag
++ Name brand: Do you have the name brand Nike here?/What name brands do you carry?
++ Skincare products
++ Makeup brand
++ Carry(they have it in the store)
++ Home furniture
++ Designer: Dior is a designer name brand.
++ High-end quality
++ Luxury brand
++ Cashier
++ Is this on sale?
++ Can I get a discount on this?
++ Cash register
++ 20% off
++ Ring up
++ Clearance
++ Sale rack: Clothes hang on a sale rack.
++ Shelf: The book can be put on the shelf.
++ Sale section
++ Souvenir/Keepsake/Memento
++ Tight/Loose/Small/Big
++ Pin
++ Postcard
++ It fits like a glove.
++ Boutique: I like shopping in small boutiques.
++ Chain Store
++ I can't think of a good sentence.
++ Department store vs. Mall: Walmart is a department store.
++ Wholesale
++ What's on sale?
++ Bedding
++ For sale vs. On sale
++ Sales Associate
++ Tights
++ Singaporean 
++ Yoga pants are made with athletic material.
++ Fair enough
++ Brooch
++ Badge
++ Model Plane
