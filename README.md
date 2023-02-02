@@ -652,3 +652,16 @@
 
 
 
+#### 2
+
+
+
++ Refine: The **inventor** of the machine spent years refining the design.
++ Resign: Have you ever been forced to resign?
++ Bullet Point
++ Passionate
++ Passion 
++ Accent(mispronunciation)
++ Province(mispronunciation)
++ Laughing(mispronunciation)
++ Plural
