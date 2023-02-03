@@ -665,3 +665,19 @@
 + Province(mispronunciation)
 + Laughing(mispronunciation)
 + Plural
+
+
+
+#### 3
+
+
+
++ Middle-aged
++ Concert
++ Center/Centre
++ A sack of rice
++ Race a car
++ Gamble/Bet: Many people visit Las Vegas to gamble their hard-earned money.
++ Mandarin
++ Idiom
++ Cantonese
