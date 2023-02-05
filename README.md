@@ -681,3 +681,19 @@
 + Mandarin
 + Idiom
 + Cantonese
+
+
+
+#### 4
+
+
+
++ Sniffel: I have the sniffles.
++ Polite(mispronunciation)
++ I have a cold.
++ I'm under the weather.
++ Stuffy nose
++ Runny nose
++ Sneezing
++ Cough
++ Phychopath: The murder was the act of a psychopath.
