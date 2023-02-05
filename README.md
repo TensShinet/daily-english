@@ -696,4 +696,15 @@
 + Runny nose
 + Sneezing
 + Cough
-+ Phychopath: The murder was the act of a psychopath.
++ Psychopath: The murder was the act of a psychopath.
+
+
+
+#### 5
+
+
+
++ Chopsticks
++ Spoon
++ Fork
++ Touchpad
