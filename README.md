@@ -223,7 +223,7 @@
 + On the scale for measurement
 + Pay on a credit card.
 + Pay with crash
-+ Pass the security check
++ Pass the security check.
 + Here we go
 + Semester
 + Lots of scenery
@@ -684,6 +684,7 @@
 
 
 
+<<<<<<< HEAD
 #### 4
 
 
@@ -708,3 +709,26 @@
 + Spoon
 + Fork
 + Touchpad
+
+
+#### 15
+
+
+
++ Bother: Coming home is such a bother?
++ Poet
++ Rhyme(mispronunciation): You even rhymed your words.
++ What doesn't kill you can make you stronger.
++ I'm pretty manly.
++ Bush
++ Beat around the bush: Don't bother beating around the bush.
++ I'm an 80's kid.
++ Obedient/Disobedient
++ He got beaten by his dad.
++ That's extreme.
++ Could have done: He could have used that motivation in his studies.
++ One day, he came up with an idea.
++ Stick
++ The thing is, he didn't have time for it.
++ On the instant
++ Left arm in a cast
