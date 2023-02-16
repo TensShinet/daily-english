@@ -684,12 +684,11 @@
 
 
 
-<<<<<<< HEAD
 #### 4
 
 
 
-+ Sniffel: I have the sniffles.
++ Sniffle: I have the sniffles.
 + Polite(mispronunciation)
 + I have a cold.
 + I'm under the weather.
@@ -732,3 +731,46 @@
 + The thing is, he didn't have time for it.
 + On the instant
 + Left arm in a cast
+
+
+
+#### 16
+
+
+
++ Overachiever
++ Underachiever
++ Right-handed: A right-handed golfer.
++ Asylum
++ Psycho
++ Psychiatrist
++ Matching outfits
++ Eyes on the road.
++ I'm the master of my fate.
++ That's easier said than done.
++ There is a will there's a way.
++ Rome was not built in a day.
++ Learn from your mistakes.
++ Everyman for himself.
++ Private feud
++ Blood feud
++ The apple doesn't fall far from the tree.
++ It's a white lie.
++ Shrimp
++ Fairy: My son's fairy.
++ Let's dance
++ Fat woman, my ass/my foot/my butt.
++ Nitwit
++ You have a quick wit.
++ I'm unworthy of this pot.
++ A worthy opponent.
++ I have no say in any of this.
++ You have no say.
++ A beauteous lady
++ Monk
++ Assertive
++ Have a career of my own.
++ Barge into.
++ Over the past twenty years
++ Get arrested.
++ Familiarize: it will take you a few days to familiarize yourself.
