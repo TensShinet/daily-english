@@ -774,3 +774,26 @@
 + Over the past twenty years
 + Get arrested.
 + Familiarize: it will take you a few days to familiarize yourself.
+
+
+
+#### 17
+
+
+
++ Don't play dumb.
++ Graveyard
++ Is this seat taken?
++ Very well put
++ Chinese cabbage
++ Bok choy
++ Washing machine
++ Allow(mispronunciation)
++ Compelling
++ Elevator pitch
++ Bet on me
++ Secretary
++ Paw
++ Literature
++ Literally: I was literally blown away by the response I got.
++ Sauce
