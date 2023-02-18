@@ -797,3 +797,24 @@
 + Literature
 + Literally: I was literally blown away by the response I got.
 + Sauce
+
+
+
+#### 18
+
+
+
++ Criminal
++ Intuitive designs
++ Assume a role
++ High-end
++ Analyst/Analytics
++ Pro bono: Pro bono legal services.
++ Slur: Don't slur your words together.
++ Layman: The book seems well-suited to the interested layman.
++ Acronym
++ Revenue agency
++ Insurance
++ Overbearing: He can't wait to get away from his overbearing parents.
++ Bossy: Don't be so bossy!
++ Pushy: A pushy salesperson
