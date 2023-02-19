@@ -818,3 +818,33 @@
 + Overbearing: He can't wait to get away from his overbearing parents.
 + Bossy: Don't be so bossy!
 + Pushy: A pushy salesperson
+
+
+
+#### 19
+
+
+
++ Conduct: He conducted us through his gallery.
++ Conduct: They were arrested for disorderly conduct.
++ Qualification
++ Ambitious
++ Strength
++ Weakness
++ Attire: Business attire.
++ Gown: A wedding gown.
++ Overwork: If you overwork yourself, you risk burning out and damaging your health in the long run.
++ Overwork: Employers are responsible for providing a safe and healthy work environment that does not encourage or require overwork.
++ Deliver more targeted responses.
++ How do you approach a typical workday?
++ I am a layman when it comes to literature.
++ Wrinkle/Wrinkled/Free of wrinkles.
++ Iron your clothes before your interview.
++ Open-toe/Close-toe: Dress code: This company has a strict dress code, no open-toe shoes for women.
++ Pantyhose
++ Stain: Coffe stain
++ Reference: Reference letter
++ Crease: She tried to iron out the crease in her pants before her job interview.
++ Photography
++ Portfolio: Artist portfolio
++ Portfolio: The architect carried his blueprints in a leather portfolio to keep them organised and protected.
