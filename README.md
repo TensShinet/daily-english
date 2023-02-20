@@ -847,4 +847,15 @@
 + Crease: She tried to iron out the crease in her pants before her job interview.
 + Photography
 + Portfolio: Artist portfolio
-+ Portfolio: The architect carried his blueprints in a leather portfolio to keep them organised and protected.
++ Portfolio: The architect carried his blueprints in a leather portfolio to keep them organized and protected.
+
+
+
+#### 20
+
+
+
++ Curry
+
+
+
