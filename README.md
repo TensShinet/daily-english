@@ -846,7 +846,6 @@
 + Reference: Reference letter
 + Crease: She tried to iron out the crease in her pants before her job interview.
 + Photography
-+ Portfolio: Artist portfolio
 + Portfolio: The architect carried his blueprints in a leather portfolio to keep them organized and protected.
 
 
@@ -859,3 +858,23 @@
 
 
 
+#### 22
+
+
+
++ Ginormous
++ Contestant
++ Sharp
++ Before the time hits zero.
++ Craft: He crafted the chair lovingly.
++ Craft: The craft of building a house.
++ Fountain
++ Lawn
++ Heaven
++ Blindfold
++ Seasoning
++ Off-putting: his scar is somewhat off-putting.
++ How can I blame you?
++ Sussage
++ Germany
++ Movie theater
