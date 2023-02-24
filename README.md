@@ -878,3 +878,19 @@
 + Sussage
 + Germany
 + Movie theater
+
+
+
+#### 23
+
+
+
++ Toothbrush
++ Shovel
++ Hammer
++ Sword
++ Shield
++ Coal
++ Alumnus/Alumni
++ My birthday is around the corner.
++ The restaurant is around the corner.
