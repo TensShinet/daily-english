@@ -873,9 +873,9 @@
 + Heaven
 + Blindfold
 + Seasoning
-+ Off-putting: his scar is somewhat off-putting.
++ Off-putting: his scar is off-putting.
 + How can I blame you?
-+ Sussage
++ Sausage
 + Germany
 + Movie theater
 
@@ -894,3 +894,27 @@
 + Alumnus/Alumni
 + My birthday is around the corner.
 + The restaurant is around the corner.
+
+
+
+#### 24
+
+
+
++ Paradox
++ Causality/Causal
++ Casual
++ Feasible
++ Colloquial
+
++ I want to stay in Singapore longer to improve my English.
++ The spirit of the rule.
++ Flashlight
++ Financial center
++ You haven't called me once since that day at the beach.
++ That wasn't very nice.
++ It takes a remarkable ability to achieve what you have.
++ You came from nothing.
++ Crossroad/Crisis/Critical
++ Midlife: some midlife crisis.
++ Vaccine/Vaccinate/Vaccination
