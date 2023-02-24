@@ -464,8 +464,7 @@
 + Cough
 + Elbow
 + Lick
-+ Plug/Cover/Pull/Cup your ear
-+ **Pinck**
++ Plug/Cover/Pull/Cup your ear.
 + Poke
 + Punch
 + Slap
@@ -537,7 +536,7 @@
 + Pick-up artist
 + Pick up a girl
 + Drop off: Can you just drop me off at the corner?
-+ Pull over: Can you pull over ahead?
++ Pullover: Can you pullover ahead?
 + Parking lot: I parked the car in parking lot A.
 + Park spot
 + Basement parking
