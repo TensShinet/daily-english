@@ -917,3 +917,11 @@
 + Crossroad/Crisis/Critical
 + Midlife: some midlife crisis.
 + Vaccine/Vaccinate/Vaccination
+
+
+
+#### 25
+
+
+
++ Minor/Minors
