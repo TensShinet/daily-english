@@ -266,7 +266,7 @@
 + Airline Agent
 + Metro/Subway
 + How long is the security line?
-+ Line up
++ Line up: Line up to get on the train.
 + Down/Up the stairs
 + Driver you home
 + Congee/Rice porridge
@@ -925,3 +925,32 @@
 
 
 + Minor/Minors
+
+
+
+#### 26
+
+
+
++ Public transit
++ Transit card
++ Bus route
++ Bus stop/Subway stop
++ Route 22/Bus 22
++ Compass
++ Charge: I can charge my transit card with my phone.
++ Bus fare/Subway fare
++ Please exit for line two.
++ Proper(mispronunciation)
++ I have never been to the city of Shenzhen.
++ British
++ Britain
++ No cutting
++ Give up your seat to an elderly person.
++ Priority seat
++ A pregnant woman.
++ A disabled person.
++ Stay clear of the door.
++ The front desk of the hotel.
++ Traffic jam
++ Ding the bell.
