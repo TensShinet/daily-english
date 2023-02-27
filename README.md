@@ -954,3 +954,12 @@
 + The front desk of the hotel.
 + Traffic jam
 + Ding the bell.
+
+
+
+#### 27
+
+
+
++ Consequence
++ Sail
