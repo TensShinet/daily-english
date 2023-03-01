@@ -963,3 +963,68 @@
 
 + Consequence
 + Sail
+
+
+
+#### 28
+
+
+
++ Education experience
++ E-commerce
++ In July of last year
++ Prominent
+
+
+
+### 3
+
+
+
+#### 1 
+
+
+
++ Primary School
+
++ Junior high school
+
++ High school
+
++ Attend university
+
++ Obstacle
+
++ Customize
+
++ Fridge
+
++ Vietnam
+
++ Vietnamese
+
++ Thailand
+
++ Thai
+
++ Malaysia
+
++ Malaysian
+
++ Malay
+
++ Anime
+
++ Amenity/Amenities: What amenities are included in your monthly rent?
+
++ Philippines
+
++ Filipino
+
++ India
+
++ Indian
+
++ Hindi
+
+  
