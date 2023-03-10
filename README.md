@@ -1039,3 +1039,14 @@
 + Soy sauce
 + Vinegar
 + Reveal
+
+
+
+#### 9
+
+
+
++ Percentage
++ SIM card
++ 4 hours and a half hours
++ For me, taking a plane at 5 am is very early.
