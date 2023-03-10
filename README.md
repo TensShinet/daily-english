@@ -592,7 +592,7 @@
 + Skincare products
 + Makeup brand
 + Carry(they have it in the store)
-+ Home furniture
++ Home Furniture: A piece of furniture.
 + Designer: Dior is a designer name brand.
 + High-end quality
 + Luxury brand
@@ -1048,5 +1048,32 @@
 
 + Percentage
 + SIM card
-+ 4 hours and a half hours
++ Four and a half hours
 + For me, taking a plane at 5 am is very early.
+
+
+
+#### 10
+
+
+
++ Public bathroom
++ Regarding: I have a question regarding your earlier comments.
++ Competent
++ Competitor
++ Auntie/Aunty/Aunt
++ Entrust: I'm the one who you could entrust. 
++ **How much** effort and time, and money have you just wasted?
++ My child is all grown up.
++ Millionaire
++ Billionaire
++ Multimillionaire
++ Bullshit
++ Commit a mortal sin: How am I supposed to tell them I committed a mortal sin?
++ Eligible
++ An illegal immigrant
++ lawful
++ Heritage: Folk songs are part of our common heritage.
++ Inheritance: She began her own business with the inheritance she got from her grandfather.
++ Hierarchy: Like most other American companies with a rigid hierarchy, workers and managers had strictly defined duties.
++ Middle Ages: Are we still living in the Middle Ages?
