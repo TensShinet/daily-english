@@ -1077,3 +1077,16 @@
 + Inheritance: She began her own business with the inheritance she got from her grandfather.
 + Hierarchy: Like most other American companies with a rigid hierarchy, workers and managers had strictly defined duties.
 + Middle Ages: Are we still living in the Middle Ages?
+
+
+
+#### 11
+
+
+
++ Oval
++ Rhombus
++ Prince/Princess
++ Waiter/Waitress
++ Bathe: I'm going to bathe my dog.
++ Freaking out: I'm freaking out right now.
