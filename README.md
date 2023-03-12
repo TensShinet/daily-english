@@ -1090,3 +1090,15 @@
 + Waiter/Waitress
 + Bathe: I'm going to bathe my dog.
 + Freaking out: I'm freaking out right now.
+
+
+
+#### 12
+
+
+
++ Honest mistake: It's an honest mistake.
++ Concise
++ Cross my heart: I promise to be honest, cross my heart.
++ Dip: It's no secret that dips are one of the best exercises to build chest muscles.
+
