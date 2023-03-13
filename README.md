@@ -1102,3 +1102,13 @@
 + Cross my heart: I promise to be honest, cross my heart.
 + Dip: It's no secret that dips are one of the best exercises to build chest muscles.
 
+
+
+#### 13
+
+
+
++ Natural
++ Neutral
++ Neural
+
